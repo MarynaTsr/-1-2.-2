@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+  MyForm1.cpp
+C:\Users\user\Documents\studing\inf\p_z1-2\Lz_1_2.2-master\Project3\MyForm1.h(249,7): error C2039: 'Cancel': is not a member of 'System::Windows::Forms::FormClosedEventArgs'
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\user\Documents\studing\inf\p_z1-2\Lz_1_2.2-master\Project3\MyForm1.h(249,7): error C2039: 'Cancel': is not a member of 'System::Windows::Forms::FormClosedEventArgs'
+  (compiling source file 'MyForm1.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
